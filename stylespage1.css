@@ -3,6 +3,33 @@ body {background-color: rgb(79, 79, 79);
 .center-header {
   text-align: center;
  }
+ 
+ h2 {
+  color: hsl(278, 72%, 21%) /* Replace #FF0000 with your desired color for header text */
+}
+
+p {
+  color: #000000; /* Replace #0000FF with your desired color for paragraph text */
+  font-weight: bold;
+  
+}
+h3 {
+  color: hsl(278, 72%, 21%) /* Replace #FF0000 with your desired color for header text */
+}
+
+p {
+  color: #000000; /* Replace #0000FF with your desired color for paragraph text */
+  font-weight: bold;
+}
+h4 {
+  color: hsl(278, 72%, 21%) /* Replace #FF0000 with your desired color for header text */
+}
+
+p {
+  color: #000000; /* Replace #0000FF with your desired color for paragraph text */
+  font-weight: bold;
+}
+
 
 
  
